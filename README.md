@@ -25,7 +25,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 -  Requirement Analysis the main objective is to understand and document the needs and expectations of the stakeholders for the software. This phase involves gathering requirements through meetings, interviews, and analysis.
 - System Design where you develop the overall architecture and design of the system based on the requirements.
-- Implimentation which involves convert the system design into actual code using the chosen programming language and tools
+- Implementation which involves convert the system design into actual code using the chosen programming language and tools
 - Testing which involves validate that the software functions as expected and meets all requirements. Testing involves identifying and fixing bugs, ensuring that the software is reliable and performs well.
 - Deployment which involves release the software to the production environment where end users can access and use it. This phase involves installation, configuration, and user training.
 - Maintenance which involves Provide ongoing support for the software after deployment. This includes fixing any issues that arise, making updates, and adding new features as needed.
